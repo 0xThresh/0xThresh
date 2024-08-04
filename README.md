@@ -1,5 +1,5 @@
 ## Senior DevOps Engineer, Open Source Contributor, and LLM Tinkerer
-Maintainer of Open WebUI's [Helm Charts](https://github.com/open-webui/helm-charts) and contributor to [Pipelines](https://github.com/open-webui/pipelines). Herding ~~sheep~~ containers at a Fortune 100 company. 
+Maintainer of Open WebUI's [Helm Charts](https://github.com/open-webui/helm-charts) and contributor to [Pipelines](https://github.com/open-webui/pipelines). Herding ~~sheep~~ containers at a Fortune 100 company. Writing about [Open Source AI](https://blog.opensourceai.dev/). 
 
 ### 📈 My GitHub Stats
 
